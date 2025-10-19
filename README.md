@@ -6,3 +6,11 @@ This will open up a console that lets you manually enter either
 - The off tick of the last event, be it the final control change event, or most probably the final note-off event.
 or
 - Track time MM:SS
+
+
+
+my first reddit account got shadowbanned and then fully banned sitewide.
+As I have no idea whether linking it on carrd or youtube video descriptions contributed to that ban, 
+I'm only mentioning my new reddit user name here to isolate any possible connection elsewhere.
+
+u/looperneue_6764
